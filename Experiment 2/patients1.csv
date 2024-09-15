@@ -1,0 +1,51 @@
+PatientID,Gender,Age,Weight,Height,BMI,EnrollmentDate,ProgramType,PreviousDiets,PhysicalActivityLevel,SupportSystem,GoalWeight(kg)
+1,Male,32,95.2,180,29.2,2023-01-15,Weight Loss,2,Low,Family,85
+2,Female,28,78.5,165,28.8,2023-02-03,Weight Loss,1,Moderate,Friends,70
+3,Male,45,102.1,175,33.2,2023-01-22,Weight Loss,3,Low,Significant Other,90
+4,Female,36,65.8,163,24.7,2023-02-10,Maintenance,0,High,Family,65
+5,Male,52,118.4,185,34.6,2023-01-29,Weight Loss,4,Low,None,105
+6,Female,25,58.9,160,23.0,2023-02-17,Weight Loss,1,Moderate,Friends,55
+7,Male,48,89.7,178,28.3,2023-02-24,Weight Loss,2,Low,Family,80
+8,Female,39,72.6,168,25.7,2023-03-02,Maintenance,1,High,Significant Other,70
+9,Male,29,87.5,172,29.7,2023-03-09,Weight Loss,0,Moderate,Friends,80
+10,Female,55,99.8,162,38.1,2023-03-16,Weight Loss,3,Low,Family,85
+11,Male,37,92.4,183,27.6,2023-03-23,Weight Loss,2,Moderate,Significant Other,85
+12,Female,41,85.3,170,29.6,2023-03-30,Maintenance,1,High,Family,80
+13,Male,26,75.7,175,24.8,2023-04-06,Weight Loss,0,High,Friends,70
+14,Female,58,105.5,160,41.2,2023-04-13,Weight Loss,4,Low,None,90
+15,Male,33,98.6,188,27.8,2023-04-20,Weight Loss,2,Moderate,Family,90
+16,Female,27,62.1,162,23.6,2023-04-27,Maintenance,0,Moderate,Friends,60
+17,Male,49,115.2,180,35.6,2023-05-04,Weight Loss,3,Low,Significant Other,100
+18,Female,40,79.9,167,28.6,2023-05-11,Weight Loss,1,High,Family,75
+19,Male,30,82.5,177,26.3,2023-05-18,Weight Loss,2,Moderate,Friends,75
+20,Female,53,97.0,158,38.8,2023-05-25,Weight Loss,2,Low,None,80
+21,Male,35,90.7,185,26.5,2023-06-01,Weight Loss,1,Moderate,Family,80
+22,Female,29,68.0,163,25.6,2023-06-08,Maintenance,0,High,Significant Other,65
+23,Male,47,108.8,178,34.3,2023-06-15,Weight Loss,3,Low,Family,95
+24,Female,38,76.2,170,26.4,2023-06-22,Weight Loss,1,Moderate,Friends,70
+25,Male,27,85.0,182,25.8,2023-06-29,Weight Loss,0,High,Significant Other,80
+26,Female,56,102.9,160,40.2,2023-07-06,Weight Loss,4,Low,None,85
+27,Male,34,96.5,186,27.9,2023-07-13,Weight Loss,2,Moderate,Family,85
+28,Female,28,63.5,165,23.4,2023-07-20,Maintenance,1,High,Friends,60
+29,Male,50,112.0,180,34.4,2023-07-27,Weight Loss,3,Low,Significant Other,100
+30,Female,42,81.6,168,28.9,2023-08-03,Weight Loss,2,Moderate,Family,75
+31,Male,31,88.9,175,29.1,2023-08-10,Weight Loss,1,High,Friends,80
+32,Female,54,95.2,159,37.7,2023-08-17,Weight Loss,3,Low,None,80
+33,Male,36,93.8,184,27.8,2023-08-24,Weight Loss,2,Moderate,Family,85
+34,Female,29,69.4,164,25.8,2023-08-31,Maintenance,0,High,Significant Other,65
+35,Male,48,106.2,179,33.1,2023-09-07,Weight Loss,4,Low,Family,95
+36,Female,39,77.9,171,26.7,2023-09-14,Weight Loss,1,Moderate,Friends,70
+37,Male,28,86.4,180,26.7,2023-09-21,Weight Loss,0,High,Significant Other,80
+38,Female,57,98.6,161,38.0,2023-09-28,Weight Loss,3,Low,None,85
+39,Male,35,92.0,187,26.3,2023-10-05,Weight Loss,2,Moderate,Family,85
+40,Female,30,65.3,166,23.8,2023-10-12,Maintenance,1,High,Friends,65
+41,Male,51,110.5,182,33.4,2023-10-19,Weight Loss,3,Low,Significant Other,100
+42,Female,43,83.2,172,28.2,2023-10-26,Weight Loss,2,Moderate,Family,75
+43,Male,29,80.1,176,25.9,2023-11-02,Weight Loss,1,High,Friends,75
+44,Female,55,92.4,158,36.9,2023-11-09,Weight Loss,2,Low,None,80
+45,Male,37,94.2,185,27.5,2023-11-16,Weight Loss,0,Moderate,Family,85
+46,Female,31,70.8,167,25.3,2023-11-23,Maintenance,1,High,Significant Other,70
+47,Male,49,107.6,177,34.5,2023-11-30,Weight Loss,3,Low,Family,95
+48,Female,40,78.5,169,27.4,2023-12-07,Weight Loss,2,Moderate,Friends,70
+49,Male,32,87.9,181,26.8,2023-12-14,Weight Loss,1,High,Significant Other,80
+50,Female,52,96.5,160,37.7,2023-12-21,Weight Loss,4,Low,None,80
