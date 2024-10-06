@@ -1,0 +1,76 @@
+Student ID,Name,Attendance,Performance,Prediction
+S001,David,84,79,Not At Risk
+S002,Liam,84,73,Not At Risk
+S003,Jack,58,93,At Risk
+S004,Oliver,53,73,At Risk
+S005,Uma,63,99,At Risk
+S006,Penny,72,58,At Risk
+S007,Nora,73,57,At Risk
+S008,Rita,73,57,At Risk
+S009,Kevin,89,64,At Risk
+S010,Tina,63,80,At Risk
+S011,Diana,68,84,At Risk
+S012,Fiona,76,91,Not At Risk
+S013,Paul,93,71,At Risk
+S014,Sam,98,76,Not At Risk
+S015,Bob,97,85,Not At Risk
+S016,Mike,70,91,Not At Risk
+S017,Helen,76,71,Not At Risk
+S018,Vince,67,50,At Risk
+S019,Helen,98,99,Not At Risk
+S020,Julia,87,53,At Risk
+S021,Zane,86,67,At Risk
+S022,George,96,73,Not At Risk
+S023,Nina,88,96,Not At Risk
+S024,Mona,65,57,At Risk
+S025,Victor,79,67,At Risk
+S026,Jack,57,52,At Risk
+S027,Mike,95,55,At Risk
+S028,Ursula,71,67,At Risk
+S029,Cody,80,61,At Risk
+S030,Vince,70,60,At Risk
+S031,Steve,91,66,At Risk
+S032,Kara,50,94,At Risk
+S033,Oscar,53,100,At Risk
+S034,Hannah,73,87,Not At Risk
+S035,Eva,70,90,Not At Risk
+S036,Quincy,81,62,At Risk
+S037,Grace,75,73,Not At Risk
+S038,Ethan,81,66,At Risk
+S039,Xander,84,57,At Risk
+S040,Sam,50,51,At Risk
+S041,David,71,94,Not At Risk
+S042,Nina,93,76,Not At Risk
+S043,Ursula,82,78,Not At Risk
+S044,Grace,63,69,At Risk
+S045,Alice,61,75,At Risk
+S046,Laura,56,71,At Risk
+S047,Nora,88,91,Not At Risk
+S048,Diana,65,88,At Risk
+S049,Bob,62,87,At Risk
+S050,Bella,86,99,Not At Risk
+S051,Yara,63,74,At Risk
+S052,Oscar,97,56,At Risk
+S053,Aaron,80,98,Not At Risk
+S054,Mona,81,93,Not At Risk
+S055,Tina,88,53,At Risk
+S056,Eva,60,70,At Risk
+S057,Frank,51,52,At Risk
+S058,Ian,69,92,Not At Risk
+S059,Quinn,63,60,At Risk
+S060,Ethan,84,62,At Risk
+S061,Cody,97,86,Not At Risk
+S062,Ian,62,100,At Risk
+S063,Alice,64,64,At Risk
+S064,George,57,79,At Risk
+S065,Wendy,87,88,Not At Risk
+S066,Kevin,85,57,At Risk
+S067,Ivy,64,54,At Risk
+S068,Yara,80,80,Not At Risk
+S069,Victor,53,54,At Risk
+S070,Steve,84,66,At Risk
+S071,Tracy,52,98,At Risk
+S072,Rita,71,78,Not At Risk
+S073,Oliver,59,84,At Risk
+S074,Wendy,77,58,At Risk
+S075,Charlie,80,72,At Risk
